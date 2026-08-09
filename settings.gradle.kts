@@ -15,5 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChiOverflow"
 include(":app")
-a
-aaa
